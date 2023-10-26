@@ -1,5 +1,4 @@
-# Machine-Learning
-This repository contains machine learning projects I worked on.
+# Activity classification using Random Forest algorithm.
 
 The first file, "Activity_Classification.ipynb," contains the code for activity classification of tri-axial accelerometer data obtained by the Beiwe research platform. This project was part of the online course "Using Python for Research" on edX.org by Havard University. The instructor of this course is J.P. Onella, Associate Professor of Biostatistics at the Harvard T.H. Chan School of Public Health and Director of the Health Data Science Program. The CSV files contain the data to train and test the model. The data files were provided to us by the course coordinator.  
 
